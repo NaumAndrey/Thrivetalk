@@ -1,0 +1,26 @@
+@media  screen and (max-width: 1299px){
+    .media{
+      max-width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 1099px){
+  .media{
+    max-width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 899px){
+  .media{
+    max-width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 699px){
+  .media{
+    max-width: none;
+  }
+}  
